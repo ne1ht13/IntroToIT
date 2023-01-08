@@ -1,0 +1,25 @@
+.list{
+    list-style-type: none;
+}
+.break{
+    padding-top: 10px;
+}
+.trigger{
+    color: rgba(52, 118, 177);
+    font-size: 30px;
+}
+.trigger:hover{
+    color: rgba(232, 238, 144);
+    cursor: pointer;
+}
+.trigger:visited{
+    color: rgba(232, 238, 144);
+}
+table{
+    border: 1px solid black;
+}
+th, td{
+    border: 1px solid black;
+    padding: 5px 2px 5px 2px;
+    text-align: center;
+}

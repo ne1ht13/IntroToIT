@@ -1,0 +1,40 @@
+canvas {
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+/* Game Over */
+.game-content #gameover {
+  background-color: red;
+  top: 40%;
+  left: 33%;
+  width: 10%;
+  display: none;
+  position: absolute;
+  text-align: center;
+}
+
+.game-content #gameover-playagain {
+  transition: 0.3s ease-in-out;
+}
+
+.game-content #gameover-playagain:hover {
+  cursor: pointer;
+  background-color: wheat;
+}
+
+/* Sound */
+.game-content #sound  {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  margin-left: 36px;
+  margin-top: 40%;
+  cursor: pointer;
+}
+
+.game-content #sound img {
+  width: 40px;
+  height: 40px;
+}

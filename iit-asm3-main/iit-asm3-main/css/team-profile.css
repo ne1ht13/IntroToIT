@@ -1,0 +1,30 @@
+#content {
+  font-family: 'Playfair Display', serif;
+}
+#subh {
+  display: inline-block;
+  font-weight: normal;
+  font-size: 30px;
+  font-style: italic;
+  color: black;
+}
+ul {
+  padding: 0px 0px 0px 35px;
+}
+
+#pr1 {
+  margin: 10px 40px 10px 35px;
+  font-size: 23px;
+  text-align: justify;
+}
+.geninfo {
+  margin: 10px auto;
+  font-size: 28px;
+  font-weight: bold;
+}
+.padd{
+  padding-left: 15px;
+  padding-right: 5px;
+  margin-left: 20px;
+  margin-top: 65px;
+}

@@ -1,0 +1,25 @@
+h1,
+h2,
+h3,
+h4 {
+  font-size: 60px;
+}
+
+#feedback {
+  text-align: center;
+}
+
+div {
+  text-align: justify;
+}
+
+.ind{
+  margin-left: 35px;
+}
+
+.para{
+  margin-left: 35px;
+  margin-right: 40px;
+  font-size: 23px;
+  text-align: justify;
+}

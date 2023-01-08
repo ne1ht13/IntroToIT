@@ -1,0 +1,23 @@
+body{
+    counter-reset: chapter;
+}
+.title{
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    color: coral;
+}
+ul{
+    margin-top: 30px;
+    padding-right: 40px;
+}
+li{
+    list-style-type: none;
+    font-family: 'Playfair Display', serif;
+    text-align: left;
+}
+li::before{
+    content: "[" counter(chapter) "]: ";
+    counter-increment: chapter;
+}

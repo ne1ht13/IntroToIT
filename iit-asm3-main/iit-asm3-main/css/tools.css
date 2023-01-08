@@ -1,0 +1,15 @@
+/* Tools css */
+h1 {
+  text-align: center;
+  color: coral;
+  /* background-color: black; */
+}
+
+p {
+  text-align: justify;
+  padding-left: 10px;
+}
+#toolli{
+  list-style-type: disc;
+  font-size: 23px;
+}

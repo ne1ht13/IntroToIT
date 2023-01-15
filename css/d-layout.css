@@ -53,8 +53,8 @@ dd{
 } */
 
 /* font color palette */
-.lightblue{color:rgb(40, 83, 121)}
-.normalblue{color:rgb(26, 57, 85)}
+.lightblue{color:coral}
+.normalblue{color:rgb(248, 143, 104)}
 .darkblue{color:rgb(18, 42, 63)}
 
 dt {

@@ -44,7 +44,7 @@ body {
 /* color for the sidebar header */
 #sidebar-container .sidebar-header a {
   font-size: 70px;
-  color: rgba(52, 118, 177);
+  color: coral;
   padding: 20px;
 }
 
